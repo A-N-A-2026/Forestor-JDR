@@ -4,6 +4,12 @@
 
 1. Choisir une race
 
+
+
+
+    
+
+
     ||PV|Force|Intelligence|Mana|Dextérité|Défense|Influence||
     |--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
     |Humain|8|4|5|/|9|11|4|/|
