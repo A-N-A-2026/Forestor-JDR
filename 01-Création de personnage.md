@@ -4,11 +4,7 @@
 
 1. Choisir une race
 
-    |Nom|Description||||
-    |--|--|--|--|--|
-    |sdsd|||||
-    |sfds|||||
-    |dsgdsdgsdfgdf|||||
+
 
 
     
